@@ -385,7 +385,7 @@ If you find this useful, please feel free to make a small donation with [PayPal]
 
 | Paypal | Bitcoin |
 | ------ | ------- |
-|[![](https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5UUCDR8YXWERQ)|![1GUrKgkaCkdsrCzb4pq3bJwkmjTVv9X7eG](https://raw.githubusercontent.com/ab77/netflix-proxy/master/static/bitcoin_qr.png)1GUrKgkaCkdsrCzb4pq3bJwkmjTVv9X7eG|
+|[![](https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5UUCDR8YXWERQ)|![bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n](https://raw.githubusercontent.com/ab77/netflix-proxy/master/static/bitcoin_qr.png)bc1qujzg4h8lsdhwh5c0he4dahz9pfl6afrjrka47n|
 
 #### footnotes
 1. [SNIProxy](https://github.com/dlundquist/sniproxy) by Dustin Lundquist `dustin@null-ptr.net`; this solution will only on devices supporting Server Name Indication (SNI)[[n7]](#footnotes) and only if they use DNS to resolve names.
